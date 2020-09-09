@@ -4,10 +4,13 @@
 </div>  
 --->
 
+
+
 ### <div align="center">I'm Peyton, a Mechanical Engineer and a hobby programmer with a variety of skills</div>  
   
 
-- I’m currently working on [ritiek/spotify-downloader](https://github.com/ritiek/spotify-downloader)  
+
+- I’m currently working on [ritiek/spotify-downloader](https://github.com/ritiek/spotify-downloader)  && [hpcreery/devtwins.js](https://github.com/hpcreery/devtwins.js)
   
 
 - I’m currently learning Vue, React, JS  
