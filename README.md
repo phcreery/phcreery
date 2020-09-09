@@ -12,8 +12,6 @@
 
 - I’m currently learning Vue, React, JS  
   
-
-- I use tabs over spaces  
   
 
 <br/>  
