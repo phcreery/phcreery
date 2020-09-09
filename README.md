@@ -1,7 +1,8 @@
+<!---
 <div align="center">
 <img src="https://avatars0.githubusercontent.com/u/44987569?s=400&u=ec52cd4bcb77512ea54d58f6af047d5e5b1edaf6&v=4" align="center" style="width: 100%" />
 </div>  
-  
+--->
 
 ### <div align="center">I'm Peyton, a Mechanical Engineer and a hobby programmer with a variety of skills</div>  
   
