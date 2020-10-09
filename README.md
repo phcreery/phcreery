@@ -13,7 +13,7 @@
 - I’m currently working on [ritiek/spotify-downloader](https://github.com/ritiek/spotify-downloader)  && [hpcreery/devtwins.js](https://github.com/hpcreery/devtwins.js)
   
 
-- I’m currently learning Vue, React, JS  
+- I’m currently learning Vue, React, JS, python multiprocessing
   
   
 
